@@ -21,7 +21,7 @@
 
 <div class="cover">
   <h1>Validación de DNI</h1>
-  <form action="formulario.php" method="POST" class="flex-form">
+  <form action="procesoForm.php" method="POST" class="flex-form">
     <label for="from">
       <i class="ion-location"></i>
     </label>
